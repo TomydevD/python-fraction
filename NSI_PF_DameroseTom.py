@@ -1,3 +1,5 @@
+# lien du projet git(test) : https://github.com/TomydevD/python-fraction
+
 
 def fraction_irreductible(fraction):
     """Permet de rendre une fraction irréductible
